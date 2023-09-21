@@ -12,8 +12,10 @@ import android.widget.ImageView
 import android.widget.TextView
 
 /// Reference's
-//
-//
+//https://www.youtube.com/watch?v=y1fptOfsIRs
+//https://www.youtube.com/watch?v=r8haL7agB_E
+//https://www.youtube.com/watch?v=5O2Uox-TR00
+//https://github.com/farida-techie/SpinWinGame/tree/main
 
 class MainActivity : AppCompatActivity() ,Animation.AnimationListener{
 
